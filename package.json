@@ -1,7 +1,6 @@
 {
   "name": "agency",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -18,5 +17,14 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.20"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bugracntp/Agency.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bugracntp/Agency/issues"
+  },
+  "homepage": "https://github.com/bugracntp/Agency#readme",
+  "description": ""
 }
